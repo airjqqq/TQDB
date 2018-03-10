@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<log date="03/10/18" time="19:23:17" version="TQ Anniversary v1.3">
+<NULL priority="normal">0: LocalizationManager load Chinese</NULL>
+<NULL priority="error">0: LocalizationManager::Load encountered a duplicate tag: (tagOracleQ3) in file Text_CH/Dialog.txt.</NULL>
+<NULL priority="error">0: LocalizationManager::Load encountered a duplicate tag: (Intelligence) in file Text_CH/UI.txt.</NULL>
+<NULL priority="error">0: LocalizationManager::Load encountered a duplicate tag: (Strength) in file Text_CH/UI.txt.</NULL>
+<NULL priority="error">0: LocalizationManager::Load encountered a duplicate tag: (Dexterity) in file Text_CH/UI.txt.</NULL>
+<NULL priority="error">0: LocalizationManager::Load encountered a duplicate tag: (tagGreeceQ1UiTitle) in file Text_CH/Quest.txt.</NULL>
+<NULL priority="error">0: LocalizationManager::Load encountered a duplicate tag: (tagGreeceQ2UiTitle) in file Text_CH/Quest.txt.</NULL>
+<NULL priority="error">0: LocalizationManager::Load encountered a duplicate tag: (tagGreeceQ3UiTitle) in file Text_CH/Quest.txt.</NULL>
+<NULL priority="error">0: LocalizationManager::Load encountered a duplicate tag: (tagGreeceQ4UiTitle) in file Text_CH/Quest.txt.</NULL>
+<NULL priority="error">0: LocalizationManager::Load encountered a duplicate tag: (tagGreeceQ5UiTitle) in file Text_CH/Quest.txt.</NULL>
+<NULL priority="error">0: LocalizationManager::Load encountered a duplicate tag: (tagGreeceQ6UiTitle) in file Text_CH/Quest.txt.</NULL>
+<NULL priority="error">0: LocalizationManager::Load encountered a duplicate tag: (tagGreeceQ7UiTitle) in file Text_CH/Quest.txt.</NULL>
+<NULL priority="error">0: LocalizationManager::Load encountered a duplicate tag: (tagGreeceQ7AltUiTitle) in file Text_CH/Quest.txt.</NULL>
+<NULL priority="error">0: LocalizationManager::Load encountered a duplicate tag: (tagEgyptQ8UiTitle) in file Text_CH/Quest.txt.</NULL>
+<NULL priority="error">0: LocalizationManager::Load encountered a duplicate tag: (tagEgyptQ9UiTitle) in file Text_CH/Quest.txt.</NULL>
+<NULL priority="error">0: LocalizationManager::Load encountered a duplicate tag: (tagEgyptQ10UiTitle) in file Text_CH/Quest.txt.</NULL>
+<NULL priority="error">0: LocalizationManager::Load encountered a duplicate tag: (tagOrientQ11UiTitle) in file Text_CH/Quest.txt.</NULL>
+<NULL priority="error">0: LocalizationManager::Load encountered a duplicate tag: (tagOrientQ12UiTitle) in file Text_CH/Quest.txt.</NULL>
+<NULL priority="error">0: LocalizationManager::Load encountered a duplicate tag: (tagOrientQ13UiTitle) in file Text_CH/Quest.txt.</NULL>
+<NULL priority="error">0: LocalizationManager::Load encountered a duplicate tag: (tagOrientQ14UiTitle) in file Text_CH/Quest.txt.</NULL>
+<NULL priority="error">0: LocalizationManager::Load encountered a duplicate tag: (tagOlympusQ15UiTitle) in file Text_CH/Quest.txt.</NULL>
+<NULL priority="error">0: LocalizationManager::Load encountered a line (﻿) '=' sign in file Text_CH/Install.txt.</NULL>
+<NULL priority="error">0: LocalizationManager::Load encountered a line (* 点击一下，就能立刻加入他们。) '=' sign in file Text_CH/Install.txt.</NULL>
+<NULL priority="error">0: LocalizationManager::Load encountered a line (* 《泰坦之旅》线上线下都能和好友聊天。) '=' sign in file Text_CH/Install.txt.</NULL>
+<NULL priority="error">0: LocalizationManager::Load encountered a line (* Xfire 拥有超过 270 万个注册用户。) '=' sign in file Text_CH/Install.txt.</NULL>
+<NULL priority="normal">0: GraphicsEngine CreateDevice (Direct3D, 1920 x 1080) </NULL>
+<NULL priority="normal">0: RenderDevice::Create</NULL>
+<NULL priority="normal">0: RenderDevice::Create - numLoadedLibraries is 0</NULL>
+<NULL priority="normal">0: RenderDevice::Create - device index is -1</NULL>
+<NULL priority="normal">0: RenderDevice::Create - return</NULL>
+<NULL priority="normal">0: RenderDevice::Initialize</NULL>
+<NULL priority="normal">0: RenderDevice::CreatePrimarySurface</NULL>
+<Direct3D priority="normal">0: VertexShaderVersion        = 3.0</Direct3D>
+<Direct3D priority="normal">0: PixelShaderVersion         = 3.0</Direct3D>
+<Direct3D priority="normal">0: SupportsDepthRenderTargets = true</Direct3D>
+<Direct3D priority="normal">0: Generation                 = GeForce6</Direct3D>
+<NULL priority="normal">0: SetCDKey</NULL>
+<NULL priority="normal">0: InitializeTimeSystem</NULL>
+<NULL priority="normal">0: LoadMainDatabase</NULL>
+<NULL priority="normal">0: Loaded database archive: d:/titan quest/database/database.arz</NULL>
+<NULL priority="normal">0: Create ResourceLoader</NULL>
+<NULL priority="normal">0: Initialize GraphicsEngine</NULL>
+<Graphics priority="normal">0: Direct3D9 NVIDIA GeForce GTX 880M (HW Vertex Processing)</Graphics>
+<Graphics priority="normal">0: Graphics engine initialized successfully</Graphics>
+<NULL priority="normal">0: Initialize PhysicsEngine</NULL>
+<NULL priority="normal">0: Input Device initialized successfully.</NULL>
+<NULL priority="error">0: Software Fallback Initialized: Miles Fast 2D Positional Audio</NULL>
+<NULL priority="error">0: Could Not Create Hardware 3D Provider!
+</NULL>
+<NULL priority="normal">0: MILES Sound Device initialized successfully.</NULL>
+<NULL priority="normal">0: UDP Socket Transmit Buffer length 131072 bytes.</NULL>
+<NULL priority="normal">0: UDP Socket Receive Buffer length 131072 bytes.</NULL>
+<NULL priority="normal">0: UDP Socket Transmit Buffer length 131072 bytes.</NULL>
+<NULL priority="normal">0: UDP Socket Receive Buffer length 131072 bytes.</NULL>
+<NULL priority="normal">0: UDP Socket Transmit Buffer length 131072 bytes.</NULL>
+<NULL priority="normal">0: UDP Socket Receive Buffer length 131072 bytes.</NULL>
+<NULL priority="normal">0: UDP Socket Transmit Buffer length 131072 bytes.</NULL>
+<NULL priority="normal">0: UDP Socket Receive Buffer length 131072 bytes.</NULL>
+<NULL priority="normal">0: UDP Socket Transmit Buffer length 131072 bytes.</NULL>
+<NULL priority="normal">0: UDP Socket Receive Buffer length 131072 bytes.</NULL>
+<NULL priority="normal">0: UDP Socket Transmit Buffer length 131072 bytes.</NULL>
+<NULL priority="normal">0: UDP Socket Receive Buffer length 131072 bytes.</NULL>
+<NULL priority="normal">0: Network Initialized.</NULL>
+<PathFinder priority="normal">0: PathEngine loaded version 5.1</PathFinder>
+<NULL priority="normal">0: Game Initialized.</NULL>
+<NULL priority="normal">0: Couldn't load video ''</NULL>
+<NULL priority="normal">0: ^bStartup took 13519.98 milliseconds</NULL>
+<NULL priority="error">18914: TableDepot::Unable to open file (#Records\Sounds\SoundPak\Spells\Spirit\LifeDrainCastPak.dbr)</NULL>
+<NULL priority="error">18914: Couldn't initialize resource 'Effects\Default\DamageIndicationFX\ANM\343_Poison_Skull_Idle.anm'  (invalid data)</NULL>
+<NULL priority="error">18914: TableDepot::Unable to open file (Records\Sounds\SoundPak\Spells\Lightning\ChainLightningtHitPak.dbr)</NULL>
+<NULL priority="error">18914: TableDepot::Unable to open file (Records\Sounds\SoundPak\Spells\Nature\SpiritAnimalCastPak.dbr)</NULL>
+<NULL priority="error">18914: SkillManager::Tried to create duplicate non-modifier skill (Records\XPack\Quests\Rewards\xSQ13 - StrDexIntBuff_Normal.dbr)</NULL>
+<NULL priority="error">18914: SkillManager::Tried to create duplicate non-modifier skill (Records\XPack\Quests\Rewards\xSQ13 - StrDexIntBuff_Epic.dbr)</NULL>
+<NULL priority="error">18914: SkillManager::Tried to create duplicate non-modifier skill (Records\XPack\Quests\Rewards\xSQ13 - StrDexIntBuff_Legendary.dbr)</NULL>
+<NULL priority="error">18914: SkillManager::Tried to create duplicate non-modifier skill (Records\XPack\Quests\Rewards\xSQ27 - TotalDmgBuff_Epic.dbr)</NULL>
+<NULL priority="error">18914: SkillManager::Tried to create duplicate non-modifier skill (Records\XPack\Quests\Rewards\xSQ27 - TotalDmgBuff_Legendary.dbr)</NULL>
+<NULL priority="error">18914: SkillManager::Tried to create duplicate non-modifier skill (Records\XPack\Quests\Rewards\xSQ05 - StrDexIntBuff_Normal.dbr)</NULL>
+<NULL priority="error">18914: SkillManager::Tried to create duplicate non-modifier skill (Records\XPack\Quests\Rewards\xSQ05 - StrDexIntBuff_Epic.dbr)</NULL>
+<NULL priority="error">18914: SkillManager::Tried to create duplicate non-modifier skill (Records\XPack\Quests\Rewards\xSQ05 - StrDexIntBuff_Legendary.dbr)</NULL>
+<NULL priority="error">18914: SkillManager::Tried to create duplicate non-modifier skill (Records\XPack\Quests\Rewards\xSQ13 - StrDexIntBuff_Normal.dbr)</NULL>
+<NULL priority="error">18914: SkillManager::Tried to create duplicate non-modifier skill (Records\XPack\Quests\Rewards\xSQ13 - StrDexIntBuff_Epic.dbr)</NULL>
+<NULL priority="error">18914: SkillManager::Tried to create duplicate non-modifier skill (Records\XPack\Quests\Rewards\xSQ13 - StrDexIntBuff_Legendary.dbr)</NULL>
+<NULL priority="error">18914: SkillManager::Tried to create duplicate non-modifier skill (Records\XPack\Quests\Rewards\xSQ27 - TotalDmgBuff_Epic.dbr)</NULL>
+<NULL priority="error">18914: SkillManager::Tried to create duplicate non-modifier skill (Records\XPack\Quests\Rewards\xSQ27 - TotalDmgBuff_Legendary.dbr)</NULL>
+<NULL priority="error">18914: SkillManager::Tried to create duplicate non-modifier skill (Records\XPack\Quests\Rewards\xSQ05 - StrDexIntBuff_Normal.dbr)</NULL>
+<NULL priority="error">18914: SkillManager::Tried to create duplicate non-modifier skill (Records\XPack\Quests\Rewards\xSQ05 - StrDexIntBuff_Epic.dbr)</NULL>
+<NULL priority="error">18914: SkillManager::Tried to create duplicate non-modifier skill (Records\XPack\Quests\Rewards\xSQ05 - StrDexIntBuff_Legendary.dbr)</NULL>
+<NULL priority="error">18916: Couldn't load resource '?DefaultAnim' (file not found)</NULL>
+<NULL priority="error">18921: Couldn't load resource '' (file not found)</NULL>
+<NULL priority="normal">20091: quit 1</NULL>
+<NULL priority="normal">20711: Highest ObjectId allocated: 4845 (in 18478ms).</NULL>
+<NULL priority="normal">20711: UDP Socket Transmit Buffer length 131072 bytes.</NULL>
+<NULL priority="normal">20711: UDP Socket Receive Buffer length 131072 bytes.</NULL>
+<NULL priority="normal">20711: UDP Socket Transmit Buffer length 131072 bytes.</NULL>
+<NULL priority="normal">20711: UDP Socket Receive Buffer length 131072 bytes.</NULL>
+<NULL priority="normal">20711: SoundManager Shutdown Time: 0 ms (1 items)</NULL>
+<Graphics priority="warning">20711: Resource not unloaded 'Sounds\ambience\maintitlescreen\looptitlescreen.wav' (1 references)</Graphics>
+</log>
